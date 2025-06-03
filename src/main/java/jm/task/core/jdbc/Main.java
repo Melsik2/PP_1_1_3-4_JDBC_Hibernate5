@@ -22,3 +22,4 @@ public class Main {
         userDao.dropUsersTable();
     }
 }
+//Вот как-то так
