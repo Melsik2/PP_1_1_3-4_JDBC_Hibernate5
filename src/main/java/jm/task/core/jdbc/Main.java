@@ -18,4 +18,4 @@ public class Main {
         userService.dropUsersTable();
     }
 }
-//Вот как-то так
+//Вот как-то такё
